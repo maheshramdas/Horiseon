@@ -8,6 +8,6 @@ Optimised the webpage "Horiseon social solution services" to follow accessibilit
 4. Ensure that title is consise and descriptive.
 5. Improved the css page by removing redundant style elements and custom classes
   
-##URLs
+## URLs
 1. Github repositry link: https://github.com/maheshramdas/Horiseon
 2. Deployed application link: https://github.com/maheshramdas/Horiseon/blob/main/Horiseon/index.html
